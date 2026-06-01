@@ -7,6 +7,8 @@ int main()
 {
 
     cout << "Awal program" << endl; //penanda 1
-   
+    try
+    {
+        
     return 0;
 }

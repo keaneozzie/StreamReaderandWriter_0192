@@ -45,7 +45,8 @@ int main()
     {
 
         //perulangan untuk memunculkan setiap baris
-        while (getline(infile, baris)) {
+        while (getline(infile, baris))
+        {
             cout << baris << endl;
         }
 
